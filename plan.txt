@@ -1,1 +1,7 @@
 This is the plan
+
+1. Concept Art
+
+2. Game Logic
+
+3. Pygame Setup
